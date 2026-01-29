@@ -40,7 +40,7 @@ The project demonstrates **hybrid usage of React-Bootstrap for layout** and **Ma
 - Overall responsive layout for the dashboard
 
 📸 **Output Screenshot:**  
-![Layout Structure](./screenshots/layout.png)
+(./screenshots/layout.png)
 
 ---
 
@@ -150,3 +150,4 @@ This case study demonstrates how modern React applications can effectively combi
 The Zyra AI dashboard serves as a strong base UI for future AI assistant integrations such as voice input, real-time data, and automation features.
 
 ---
+
