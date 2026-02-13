@@ -1,7 +1,3 @@
-# Case Study | React Applications using Lazy Loading
-
----
-
 # 📌 Experiment 5.1 
 ## Lazy Loading of a Dashboard Component in React
 
@@ -158,3 +154,4 @@ This approach enhances performance, reduces initial load time, and ensures smoot
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
+
