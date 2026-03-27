@@ -97,4 +97,5 @@ Validation includes:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/manjot2952/Exp-6.git
+git clone https://github.com/khatrivishal19/FULL_STACK/tree/main/exp6
+
