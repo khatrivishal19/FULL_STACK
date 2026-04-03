@@ -33,17 +33,7 @@ A simple and secure **Spring Boot** project demonstrating **JWT-based authentica
 }
 ```
 
-#### Example
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c2d71389-7712-4229-8305-f8386a4a03b0" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/810775cf-4bc9-4c81-a95b-1b20f9d85db7" width="600"/>
-</p>
-
----
 
 ###  2. Login
 
@@ -59,15 +49,6 @@ A simple and secure **Spring Boot** project demonstrating **JWT-based authentica
 }
 ```
 
-#### Example
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/abff27a6-7b83-45ed-aad0-42cf859b1935" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/91e98094-707d-44f2-aed0-34796428aed4" width="600"/>
-</p>
 
 #### Response
 
