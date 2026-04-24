@@ -151,14 +151,14 @@ application.properties
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home](assets/home.png)
+### 🏠 Frontend Running
+![Home](/home.png)
 
 ### 💬 Chat Interface
-![Chat](assets/chat.png)
+![Chat](/chat.png)
 
 ### ⚙️ Backend Running
-![Backend](assets/backend.png)
+![Backend](/backend.png)
 
 ## 👨‍💻 Author
 
